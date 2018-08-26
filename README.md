@@ -14,4 +14,4 @@ Rules:
 7. Feel free to add new rules here
 
 
-*Synergy more important than ego*
+*Synergy is more important than ego*
