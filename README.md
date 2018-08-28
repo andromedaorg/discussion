@@ -5,9 +5,9 @@
 ## Team Members
 
 - Arie [@ariebrainware](https://github.com/ariebrainware): Backend + Frontend
-- Abba @abbayosua Frontend
-- Indro @indrolie Frontend
-- Wondo @wondoindra Backend
+- Wondo [@wondoindra](https://github.com/wondoindra) Backend
+- Abba [@abbayosua](https://github.com/abbayosua) Frontend
+- Indro [@indrolie](https://github.com/indrolie) Frontend
 
 ## WWR: Work With Rules
 
